@@ -1,0 +1,15 @@
+grid {
+    border-radius: 5px;
+}
+
+body {
+    background-color: maroon;
+    border-radius: 50px
+}
+
+#spider {
+    width: 299px;
+}
+#image1{
+width: 100%;
+}
